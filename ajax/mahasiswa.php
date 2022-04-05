@@ -2,7 +2,7 @@
 
     sleep(1); // sleep 1 detik
 
-    require '../functions.php';
+    require '..functions.php';
 
     $keyword = $_GET["keyword"];
 
