@@ -1,0 +1,116 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url("https://buat.web.id/wp-content/uploads/2020/08/bubble-animated-background.svg");
+}
+
+/* index */
+.bg-nav {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    letter-spacing: 15px;
+}
+
+.text {
+    color: #ffffff;
+    text-align: center;
+    margin: 20px;
+    font-size:  30px;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: #272222;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.form {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.loading {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+    position: absolute;
+    display: none;
+    top: 230px;
+    left: 500px;
+}
+
+.table {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+/* tambah */
+.form-holder {
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.form-holder .form-content {
+    position: relative;
+    text-align: center;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.form-content .form-items {
+    border: 3px solid #fff;
+    padding: 40px;
+    display: inline-block;
+    width: 100%;
+    min-width: 540px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-align: left;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+.form-content h3 {
+    color: #fff;
+    text-align: left;
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
