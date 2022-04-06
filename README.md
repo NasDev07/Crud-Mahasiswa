@@ -11,9 +11,9 @@ untuk melihat data JSON :
 
 
 untuk download code
-. buat nama filder
-. copy link bawah ini :
+- buat nama filder
+- copy link bawah ini :
  ( git glone https://github.com/NasDev07/Crud-Mahasiswa.git )
- . buka commad git bash dalam folder teman buat
- . paste link di atas
+- buka commad git bash dalam folder teman buat
+- paste link di atas
  
