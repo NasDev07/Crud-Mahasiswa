@@ -6,7 +6,7 @@ App Mobile  Tiga
 - Halaman  web Demo:
 -  http://nasdeveloper.infinityfreeapp.com/index.php
 
-- untuk melihat data JSON :
+- Rest Api data JSON :
 -  https://nasdev07.github.io/Crud-Mahasiswa/data.json
 
 
