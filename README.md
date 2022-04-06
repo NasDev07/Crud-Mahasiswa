@@ -1,7 +1,7 @@
-# Crud Data Mahasiswa
+# 🚀 Crud Data Mahasiswa
 App Mobile  Tiga
 
-Crud Data Mahasiswa
+✔ Crud Data Mahasiswa
 
 - Halaman  web Demo:
 -  http://nasdeveloper.infinityfreeapp.com/index.php
@@ -10,7 +10,7 @@ Crud Data Mahasiswa
 -  https://nasdev07.github.io/Crud-Mahasiswa/data.json
 
 
-untuk download code
+🐱‍👤 untuk download code
 - buat nama filder
 - copy link bawah ini :
 -     ( git glone https://github.com/NasDev07/Crud-Mahasiswa.git )
