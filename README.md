@@ -18,4 +18,6 @@ untuk download code
 - paste link di atas
  
 - Hasil Demo :
-- ![app](https://user-images.githubusercontent.com/71059706/162038695-6440c205-920a-47fb-baab-8a443d804abd.png)
+ ![app](https://user-images.githubusercontent.com/71059706/162038695-6440c205-920a-47fb-baab-8a443d804abd.png)
+
+- Selamat Mencoba 🚀
