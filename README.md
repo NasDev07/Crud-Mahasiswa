@@ -4,10 +4,10 @@ App Mobile  Tiga
 Crud Data Mahasiswa
 
 - Halaman  web Demo:
--  ( http://nasdeveloper.infinityfreeapp.com/index.php )
+-  http://nasdeveloper.infinityfreeapp.com/index.php
 
 - untuk melihat data JSON :
--  ( https://nasdev07.github.io/Crud-Mahasiswa/data.json )
+-  https://nasdev07.github.io/Crud-Mahasiswa/data.json
 
 
 untuk download code
