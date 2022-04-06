@@ -1,9 +1,9 @@
-# Crud-Mahasiswa
+# Crud Data Mahasiswa
 App Mobile  Tiga
 
 Crud Data Mahasiswa
 
-# Halaman  web :
+Halaman  web :
 ( http://nasdeveloper.infinityfreeapp.com/index.php )
 
 untuk melihat data JSON :
