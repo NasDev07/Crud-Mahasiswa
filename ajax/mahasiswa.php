@@ -22,7 +22,7 @@
 <div class="container">
     <div class="table table-responsive my-3">
         <table class="table" border="1" cellpadding="10" cellspacing="0">
-                <tr>
+                <tr class="table table-dark">
                     <th>No.</th>
                     <th>Aksi</th>
                     <th>Gambar</th>
