@@ -36,7 +36,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman Admin</title>
+    <title>Halaman</title>
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
@@ -69,15 +69,16 @@
         <!-- Ahkir Navbar -->
 
     
-    <h1 class="text">Daftar Mahasiswa</h1>
+        
+        <div class="container">
+        <h1 class="text">Daftar Mahasiswa</h1>
 
-    <div class="container">
         <a class="btn my-4" href="tambah.php">Tambah Data Mahasiswa</a>
         
-        <form class="form" action="" method="POST">
-            <input class="form" type="text" name="keyword" size="40" autofocus placeholder="masukkan keyword pencarian..." autocomplete="off" id="keyword">
+        <form class="form-control" action="" method="POST">
+            <input class="form" type="text" name="keyword" size="35" autofocus placeholder="masukkan keyword pencarian..." autocomplete="off" id="keyword">
             <!-- <button type="submit" name="cari" id="tombol-cari">Cari..!</button> -->
-            <img class="loading" src="gambar/loading_icon.gif" alt="">
+            <img class=" loading" src="gambar/loading_icon.gif" alt="">
         </form>
         <br>
 
@@ -98,6 +99,8 @@
             <a class="btn" href="?halaman=<?= $halamanAktif + 1; ?>">&raquo;</a>
         <?php endif; ?>
         <br>
+
+        <a class="btn" href="https://github.com/NasDev07/Crud-Mahasiswa" target="_black">Web Online</a>
 
         <div class="table table-responsive my-3" id="container">
             <table class="table" border="1" cellpadding="10" cellspacing="0">
@@ -142,5 +145,6 @@
     <script src="js/jquery.js"></script>
     <!-- Bootsrep -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
 </body>
 </html>
