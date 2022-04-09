@@ -11,7 +11,7 @@ App Mobile  Tiga
 
 
 🐱‍👤 untuk download code
-- buat filder di XAMPP
+- buat folder di XAMPP
 - copy link bawah ini :
 -     ( git glone https://github.com/NasDev07/Crud-Mahasiswa.git )
 - buka commad git bash dalam folder teman buat
