@@ -7,7 +7,7 @@ App Mobile  Tiga
 -  http://nasdeveloper.infinityfreeapp.com/index.php
 
 - Rest Api data JSON :
--  https://nasdev07.github.io/Crud-Mahasiswa/data.json
+- https://nasdev07.github.io/Crud-Mahasiswa/data/data.json
 
 
 🐱‍👤 untuk download code
